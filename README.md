@@ -13,6 +13,7 @@ First, install Git on your computer: https://git-scm.com/install/
 Then, open the Command Prompt and clone the project repository to your preferred location: git clone https://github.com/diegooliveiradearaujo/gaia_spatial_kinematics_cluster.git
 
 2- Set up the environment
+
 Create a virtual environment to keep all project libraries and resources isolated: python -m venv gaia_env
 
 Activate the newly created virtual environment: gaia_env\Scripts\activate
@@ -20,6 +21,7 @@ Activate the newly created virtual environment: gaia_env\Scripts\activate
 Finally, install the required libraries listed in the requirements.txt file: pip install -r requirements.txt
 
 3 - Pyhton and Jupyter Notebook
+
 For this project, Python 3.10.9 and Jupyter Notebook 6.5.2 were used.
 
 Install Python 3.10.9 through here: https://www.python.org/downloads/release/python-3109/
