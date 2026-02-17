@@ -6,6 +6,8 @@ This project involves the study and analysis of stellar data from the European S
 
 We will calculate several kinematic metrics, such as signal-to-noise ratio, distance, proper motion, and tangential velocity, to study how stars move across the sky and to identify potential open clusters.
 
+The dataset can be accessed here: https://cdn.gea.esac.esa.int/Gaia/gdr1/gaia_source/csv/GaiaSource_000-000-000.csv.gz
+
 1 – Clone the Repository
 
 First, install Git on your computer: https://git-scm.com/install/
